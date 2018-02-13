@@ -1,10 +1,10 @@
 <?php
 /**
- * learning-science functions and definitions
+ * Learning Science functions and definitions
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package learning-science
+ * @package Learning_Science
  */
 
 if ( ! function_exists( 'learning_science_setup' ) ) :
@@ -19,7 +19,7 @@ if ( ! function_exists( 'learning_science_setup' ) ) :
 		/*
 		 * Make theme available for translation.
 		 * Translations can be filed in the /languages/ directory.
-		 * If you're building a theme based on learning-science, use a find and replace
+		 * If you're building a theme based on Learning Science, use a find and replace
 		 * to change 'learning-science' to the name of your theme in all the template files.
 		 */
 		load_theme_textdomain( 'learning-science', get_template_directory() . '/languages' );

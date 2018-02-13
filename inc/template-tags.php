@@ -4,7 +4,7 @@
  *
  * Eventually, some of the functionality here could be replaced by core features.
  *
- * @package learning-science
+ * @package Learning_Science
  */
 
 if ( ! function_exists( 'learning_science_posted_on' ) ) :

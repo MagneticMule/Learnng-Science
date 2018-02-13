@@ -4,7 +4,7 @@
  *
  * @link https://jetpack.com/
  *
- * @package learning-science
+ * @package Learning_Science
  */
 
 /**

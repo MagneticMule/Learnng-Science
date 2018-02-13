@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#search-result
  *
- * @package learning-science
+ * @package Learning_Science
  */
 
 get_header(); ?>

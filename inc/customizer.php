@@ -1,8 +1,8 @@
 <?php
 /**
- * learning-science Theme Customizer
+ * Learning Science Theme Customizer
  *
- * @package learning-science
+ * @package Learning_Science
  */
 
 /**
